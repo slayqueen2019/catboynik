@@ -1,0 +1,47 @@
+h1 {
+font-size: 40px;
+color:blueviolet;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+}
+p {
+    font-size: 20px;
+    color:palevioletred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.image {
+   margin: 10px auto 20px;
+   display: block;
+}
+.fora {
+    font-size: 30px;
+    text-align: center;
+    font-style:italic;
+    color:palevioletred;
+}
+img {
+    margin: 20px 20px 20px 20px;
+}
+body{
+    background-color: #ecd7f7;
+}
+.classybutton {
+    margin: 30px 30px 30px 30px;
+    font-size: 20px;
+    text-align: center;
+    background-color: salmon;
+    text-decoration: none;
+    color:whitesmoke;
+    padding: 20px;
+}
+.classybutton:hover{
+    background-color: #e6b073;
+}
+.classybutton:active{
+    background-color: rebeccapurple;
+}
+.output {
+    font-size: 20px;
+    color:salmon;
+    font-family:Geneva, Tahoma, sans-serif;
+}
